@@ -9,3 +9,6 @@
 5. Graphs
 
 plus Any interesting algorithm
+
+##TO DO
+Will try to add implement features of java 8 too :
