@@ -1,4 +1,4 @@
-package app-data-structure;
+package app.data.structure;
 
 /**
  * Hello world!
